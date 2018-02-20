@@ -1,5 +1,7 @@
-[Debug.log](https://docs.unity3d.com/ScriptReference/Debug.Log.html)
+### [Debug.log](https://docs.unity3d.com/ScriptReference/Debug.Log.html)
 
-'''Javascript
+Results
+
+```Javascript
 Debug.Log("Hello World!");
-'''
+```
