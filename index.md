@@ -4,6 +4,8 @@
 
 [Unity Study Assignments](Unity Study Assignments)
 
+[Unity API](UnityAPI)
+
 [Problems](Problems)
 
-[Unity API](UnityAPI)
+[Github Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
