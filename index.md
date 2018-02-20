@@ -2,7 +2,7 @@
 
 
 
-[Unity Study Assignments](Unity Study Assignments)
+[Unity Study Assignments](UnityStudyAssignments)
 
 [Unity API](UnityAPI)
 
