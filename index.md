@@ -2,7 +2,7 @@
 
 ## Unity5 Study
 
- * [2018 Unity Study Assignments](UnityStudyAssignments)
+ * [Unity Study Assignments (2018)](UnityStudyAssignments)
  * [Unity API Documents](UnityAPI)
  * [Problems and Solutions](UnityPnS)
 
