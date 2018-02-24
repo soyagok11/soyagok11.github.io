@@ -1,21 +1,6 @@
-﻿# Welcome to Soyagok11's Github Page!
-
 ---
-
-## Unity5 Study
-
- * [Unity Study Assignments (2018)](UnityStudyAssignments)
- * [Unity API Documents](UnityAPI)
- * [Problems and Solutions](UnityPnS)
-
-## UE4 Study
-
- * [Problems and Solutions](UE4PnS)
- 
-## Git Study
-
- * [Github Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
- * [Problems and Solutions](GitPnS)
-
-## Projects
-
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
