@@ -1,7 +1,7 @@
 ﻿---
 layout: page
-title: About
-permalink: /about/
+title: UnityStudyAssignments
+permalink: /UnityStudyAssignments/
 order: 2
 ---
 
