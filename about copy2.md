@@ -2,6 +2,7 @@
 layout: page
 title: AboutCopy2
 permalink: /aboutcopy2/
+order: 4
 ---
 
 Copy
