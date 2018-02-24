@@ -2,6 +2,7 @@
 layout: page
 title: UnityStudyAssignments
 permalink: /UnityStudyAssignments/
+icon: fa-pencil
 order: 2
 ---
 
