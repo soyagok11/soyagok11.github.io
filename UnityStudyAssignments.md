@@ -1,5 +1,6 @@
-﻿## Welcome to Soyagok11's Github Page!
+﻿## UnityStudyAssignments
 
+ * 180226 [심화 : 할로윈에 아이에게 선물을 주기](Tasks/180226)
  * 180225 [계산식에 따른 결과값 예상하기](Tasks/180225_2) 
  * 180225 [상황에 따른 체력 값 예상하기](Tasks/180225)
  * 180223 [몬스터의 체력 계산하기 확장 버전](Tasks/180223_2)
