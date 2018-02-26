@@ -2,20 +2,13 @@
 
 ---
 
-## Unity5 Study
+## [Unity5 Study](UnityStudy)
 
- * [Unity Study Assignments (2018)](UnityStudyAssignments)
- * [Unity API Documents](UnityAPI)
- * Problems and Solutions
+## [UE4 Study](UE4Study)
 
-## UE4 Study
+## [Git Study](GitStudy)
 
- * [Problems and Solutions](UE4PnS)
- 
-## Git Study
-
- * [Github Markdown Syntax](https://guides.github.com/features/mastering-markdown/)
- * [Problems and Solutions](GitPnS)
+## [Problems and Solutions](PnS)
 
 ## Projects
 
