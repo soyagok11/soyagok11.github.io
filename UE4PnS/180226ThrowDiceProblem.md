@@ -13,4 +13,4 @@
 
 그러던 도중 http://ue4resources.com/3d-projects 에서 Dice Game 예제를 구할 수 있었다.
 
-<iframe src="https://blueprintue.com/render/x3j8hvni" scrolling="no" height="600" width="800"></iframe>
+<iframe src="https://blueprintue.com/render/x3j8hvni" scrolling="no" height="600" width="600"></iframe>
