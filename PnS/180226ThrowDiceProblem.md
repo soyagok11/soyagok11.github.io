@@ -13,4 +13,17 @@
 
 그러던 도중 http://ue4resources.com/3d-projects 에서 Dice Game 예제를 구할 수 있었다.
 
-<iframe src="https://blueprintue.com/render/x3j8hvni" scrolling="no" height="600" width="600"></iframe>
+<iframe src="https://blueprintue.com/render/x3j8hvni" scrolling="no" height="300" width="600"></iframe>
+
+다른 코드는 모두 분석이 완료되었다. E 키를 받아 주사위를 던지는 기능, 주사위 둘 다 바닥에 놓여 있을 때에만 던질 수 있고, 바닥에 닿은 뒤부터 값을 체크하는 기능이 탑재되어 있다.
+
+다만 위의 Vector를 통해 주사위의 값을 도출시키는 부분이 아직 명확하게 이해가 되지 않았다.
+
+
+
+
+
+### 업뎃 예정 내용
+
+* Vector의 내적 구하기란 무엇인가?
+
