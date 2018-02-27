@@ -27,3 +27,7 @@
 
 * Vector의 내적 구하기란 무엇인가?
 
+
+* http://smilejsu.tistory.com/958
+
+* http://smilejsu.tistory.com/1043
