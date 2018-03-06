@@ -11,5 +11,6 @@
 
 ### Miscellaneous
  * [Blueprint 코드를 웹페이지로 공유](https://blueprintue.com) blueprintue.com
+ * [Shuffle 노드에 랜덤 스트림을 집어넣기](http://masterkenth.com/ue4-shuffle-array-by-randomstream-c/)
 
 ## [Problems And Solutions](PnS)
